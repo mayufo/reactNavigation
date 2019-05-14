@@ -13,7 +13,6 @@ import Page1 from '../page/Page1'
 import Page2 from '../page/Page2'
 import Page3 from '../page/Page3'
 import Page4 from '../page/Page4'
-import Page5 from '../page/Page5'
 import Login from '../page/Login'
 
 
